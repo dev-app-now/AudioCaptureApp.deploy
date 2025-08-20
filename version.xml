@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.0</version>
-  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-  <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+  <url>https://github.com/dev-app-now/AudioCaptureApp.deploy/raw/refs/heads/setup/app.zip</url>
+  <changelog>Version 1</changelog>
   <mandatory>false</mandatory>
 </item>
